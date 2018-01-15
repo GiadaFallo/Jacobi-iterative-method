@@ -35,10 +35,9 @@ The matrix order (N), instead, assume always the following values: 5000, 10000, 
 Tests have been repeated twenty times for each matrix size (in parallel versions also for each number of threads in range). The completion time has been obtained by making the arithmetic mean of the values, eliminating the greatest value collected (in this way, in Cuda implementa- tion the time spent to initialize the runtime is not considered for benchmarks and for the other implementations eventually unexpected behaviours are deleted).
 
 ### Test executed on Xeon CPU
-Figures show a comparison between FastFlow and C++11 threads implemen- tation on Xeon CPU.
+Figures show a comparison between FastFlow and C++11 threads implementation on Xeon CPU.
 
-![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_5000.SVG)
-<img src="./results/graphs/host/benchmark_graph_host_5000.SVG">
+![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_5000.SVG)<img src="./results/graphs/host/benchmark_graph_host_5000.SVG">
 
 ![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_10000.SVG)
 <img src="./results/graphs/host/benchmark_graph_host_10000.SVG">
