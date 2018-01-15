@@ -1,0 +1,2 @@
+latency_one latency_two latency_three latency_four latency_five iteration_numbers precision error threads
+15.0233	15.0498	14.9114	14.9312	14.9037	15.1586	14.8487	15.1324	15.0721	15.0689	14.9866	14.7112	14.6976	14.7619	14.9146	14.7132	14.8104	15.0522	14.9838	14.9431	8	7.925e-05	1.22537	1
