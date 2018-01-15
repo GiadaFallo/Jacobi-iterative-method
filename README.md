@@ -10,8 +10,8 @@ The aim of this project was to compare different implementation of the Jacobi it
     - **Cuda** framework
  
 All the experiments have been executed on two different machines (the second machine, equipped with a GPU device, was useful to allow tests for Cuda framework):
-one using an Intel Xeon E2650 CPU (8 cores clocked at 2 GHz each with 2 contexts - 2-way hyperthreads) and an Intel Xeon Phi co-processor (60 cores clocked at 1 GHz each with 4 contexts - 4-way hyperthreads);
-one using an AMD OpteronT M Processor 6176 (12 cores clocked at 2.3 GHz with 2 contexts).
+- one using an Intel Xeon E2650 CPU (8 cores clocked at 2 GHz each with 2 contexts 2-way hyperthreads) and an Intel Xeon Phi co-processor (60 cores clocked at 1 GHz each with 4 contexts 4-way hyperthreads);
+- one using an AMD OpteronTM Processor 6176 (12 cores clocked at 2.3 GHz with 2 contexts).
 For each experiment (i.e. for each approach, listed above, and for different linear system sizes) the completion time have been collected. Furthermore, for all the parallel versions, speedup, scalability and efficiency have been computed.
 
 ## Implementation
