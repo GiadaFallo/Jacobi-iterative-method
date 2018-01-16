@@ -37,15 +37,16 @@ Tests have been repeated twenty times for each matrix size (in parallel versions
 ### Test executed on Xeon CPU
 Figures show a comparison between FastFlow and C++11 threads implementation on Xeon CPU.
 
-![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_5000.SVG)<img src="./results/graphs/host/benchmark_graph_host_5000.SVG">
+![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_5000.SVG)
+<img src="./results/graphs/host/benchmark_graph_host_5000.SVG"/>
 
 ![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_10000.SVG)
-<img src="./results/graphs/host/benchmark_graph_host_10000.SVG">
+<img src="./results/graphs/host/benchmark_graph_host_10000.SVG"/>
 
 ![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_15000.SVG)
-<img src="./results/graphs/host/benchmark_graph_host_15000.SVG">
+<img src="./results/graphs/host/benchmark_graph_host_15000.SVG"/>
 
 ![Alt Test on Xeon CPU](./results/graphs/host/benchmark_graph_host_30000.SVG)
-<img src="./results/graphs/host/benchmark_graph_host_30000.SVG">
+<img src="./results/graphs/host/benchmark_graph_host_30000.SVG"/>
 
 
